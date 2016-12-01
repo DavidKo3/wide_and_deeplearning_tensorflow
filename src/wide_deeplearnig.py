@@ -1,4 +1,3 @@
-
 # Copyright 2016 The TensorFlow Authors. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,5 +12,32 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
+"""Example code for TensorFlow Wide & Deep Tutorial using TF.Learn API."""
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
 
-print
+import tempfile
+from six.moves import urllib
+
+import pandas as pd
+import tensorflow as tf
+
+flags = tf.app.flags
+FLAGS = flags.FLAGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
